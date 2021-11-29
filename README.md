@@ -38,6 +38,6 @@ https://github.com/petejonze/OpenVisSim
 Original Project by Pete R. Jones: https://github.com/petejonze/OpenVisSim
 
 ### Contact
-For any questions/comments to the original project, feel free to contact Pete R. Jones: https://github.com/petejonze
-For questions to the updated 2020 version and use with Vive Pro Eye contact me at: tobias.aescht@uni-ulm.de
-Supervisor of the bachelor's thesis was Mark Colley: ttps://github.com/M-Colley
+For any questions/comments to the original project, feel free to contact Pete R. Jones: https://github.com/petejonze ,
+For questions to the updated 2020 version and use with Vive Pro Eye contact me at: tobias.aescht@uni-ulm.de ,
+Supervisor of the bachelor's thesis was Mark Colley: https://github.com/M-Colley
