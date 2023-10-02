@@ -16,7 +16,7 @@ When effects are linked, the right eye automatically copies the parameters from 
 
 ### System Requirements
 **Operating system:**
-Any system that supports Unity3D. Can export to most VR/Ar hardware.
+Any system that supports Unity3D. Can export to most VR/AR hardware.
 This 2020 Version is only tested with the Vive Pro Eye!
 
 **Programming language:**
@@ -39,5 +39,5 @@ Original Project by Pete R. Jones: https://github.com/petejonze/OpenVisSim
 
 ### Contact
 For any questions/comments to the original project, feel free to contact Pete R. Jones: https://github.com/petejonze ,
-For questions to the updated 2020 version and use with Vive Pro Eye contact me at: tobias.aescht@uni-ulm.de,
+For questions to the updated 2020 version and use with Vive Pro Eye contact me at: tobias@aescht.net,
 Supervisor of the bachelor thesis was Mark Colley at Ulm University: https://github.com/M-Colley
